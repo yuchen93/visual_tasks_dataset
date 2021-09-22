@@ -5,7 +5,7 @@ This dataset contains images and drawings of objects defining a change in state 
 
 ## Data collection 
 
-Part of this dataset are images downloaded from public domains. Another portion of this dataset are drawings of and pictures taken by the author.
+Part of this dataset are images downloaded from public domains and adapted accordingly. Another portion of this dataset are drawings of and pictures taken by the author.
 
 ## Directory organization
 

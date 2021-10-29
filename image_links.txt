@@ -1,0 +1,161 @@
+
+drawings/open_cabinet/goal:
+IMG_2169.JPG		
+IMG_2175.JPG		
+IMG_2170.JPG		
+IMG_2177.JPG		
+IMG_2174.JPG		
+IMG_2178.JPG		
+ldoor_open.JPG		
+loor_open1.JPG		
+rdoor_open.JPG
+rdoor_open1.JPG
+open_cabinet1.jpeg	
+open_cabinet2.jpeg	
+open_cabinet3.jpeg	
+leftdoor_open.png	
+rightdoor_open.jpeg
+
+drawings/open_cabinet/init:
+IMG_2168.JPG		
+IMG_2173.JPG		
+IMG_2176.JPG		
+cabinet_closed1.JPG	
+cabinet_closed2.JPG	
+closed_cabinet1.png	
+closed_cabinet2.png	
+closed_cabinet3.png	
+closed_cabinet4.jpeg
+closed_cabinet5.jpg
+
+drawings/open_microwave/goal:
+mdrawing3.jpeg		
+open13_micro.jpeg	
+open_micro11.jpeg	
+open_micro17.jpeg	
+open_micro20.jpeg	
+open_micro6.jpeg
+mdrawing4.jpeg		
+open15_micro.jpeg	
+open_micro14.jpeg	
+open_micro18.jpeg	
+open_micro30.png	
+open_micro7.jpeg
+mdrawing5.jpeg		
+open_micro1.jpg		
+open_micro15.jpeg	
+open_micro19.jpeg	
+open_micro4.jpeg	
+open_micro8.jpeg
+open11_micro.jpeg	
+open_micro10.jpeg	
+open_micro16.png	
+open_micro2.jpeg	
+open_micro5.jpeg	
+open_micro9.jpeg
+
+drawings/open_microwave/init:
+closed20_open11_micro.jpeg	closed_micro13.jpeg		closed_micro19.jpeg		closed_micro6.jpeg		mdrawing3.jpeg
+closed21_open13_micro.jpeg	closed_micro14.jpeg		closed_micro2.jpeg		closed_micro7.jpeg		mdrawing4.jpeg
+closed22_open15_micro.jpeg	closed_micro15.jpeg		closed_micro3.jpeg		closed_micro8.jpeg		mdrawing5.jpeg
+closed_micro1.jpeg		closed_micro16.jpeg		closed_micro30.jpeg		closed_micro9.jpeg		mdrawing6.jpeg
+closed_micro10.png		closed_micro17.jpeg		closed_micro4.jpeg		mdrawing1.png
+closed_micro12.jpeg		closed_micro18.jpeg		closed_micro5.jpeg		mdrawing2.jpeg
+
+drawings/open_sliding_door/goal:
+IMG_2172.JPG	sdoor_open.JPG	sdoor_open1.JPG
+
+drawings/open_sliding_door/init:
+IMG_2171.JPG		sdoor_closed.JPG	sdoor_closed1.JPG
+
+drawings/turn_on_stove/goal:
+IMG_2116.JPG	IMG_2138.JPG	IMG_2142.JPG	IMG_2145.JPG	IMG_2149.JPG	IMG_2152.JPG	IMG_2157.JPG	IMG_2161.JPG	IMG_2164.JPG	knob4_on_1.JPG
+IMG_2118.JPG	IMG_2139.JPG	IMG_2143.JPG	IMG_2146.JPG	IMG_2150.JPG	IMG_2155.JPG	IMG_2158.JPG	IMG_2162.JPG	IMG_2165.JPG
+IMG_2120.JPG	IMG_2140.JPG	IMG_2144.JPG	IMG_2148.JPG	IMG_2151.JPG	IMG_2156.JPG	IMG_2159.JPG	IMG_2163.JPG	knob3_on_1.JPG
+
+drawings/turn_on_stove/init:
+IMG_2114.JPG	IMG_2137.JPG	IMG_2147.JPG	IMG_2160.JPG	stove_off11.JPG	stove_off4.jpeg	stove_off6.jpeg
+IMG_2119.JPG	IMG_2141.JPG	IMG_2154.JPG	stove_off10.JPG	stove_off3.jpeg	stove_off5.jpeg	stove_off9.png
+
+real_imgs/open_cabinet/goal:
+10.jpg			19.jpg			28.jpg			36.jpg			7.jpg			open_cabinet_6.jpeg
+11.jpg			2.jpg			29.jpg			37.jpg			8.jpg			open_cabinet_8.jpeg
+12.jpg			20.jpg			3.jpg			38.jpg			9.jpg			open_cabinet_9.jpeg
+13.jpg			21.jpg			30.jpg			39.jpg			cabinet_3.jpeg		open_canbinet_7.jpeg
+14.jpg			23.jpg			31.jpg			4.jpg			cabinet_4.jpeg
+15.jpg			24.jpg			32.jpg			40.jpg			cabinet_open.jpg
+16.jpg			25.jpg			33.jpg			41.jpg			open_cabinet_11.jpeg
+17.jpg			26.jpg			34.png			5.jpg			open_cabinet_3.jpeg
+18.jpg			27.jpg			35.jpg			6.jpg			open_cabinet_5.jpeg
+
+real_imgs/open_cabinet/init:
+1.jpg			17.jpg			24.jpg			31.jpeg			40.jpg			closed_cabinet_10.jpeg
+10.jpg			18.jpg			25.jpeg			32.jpeg			41.jpg			closed_cabinet_3.jpeg
+11.jpg			19.jpg			25.jpg			34.jpg			42.jpg			closed_cabinet_5.jpeg
+12.jpeg			2.jpg			26.jpg			35.jpg			43.jpg			closed_cabinet_6.jpeg
+13.jpg			20.jpg			28.jpg			36.jpg			5.jpg			closed_cabinet_7.jpeg
+14.jpg			21.jpg			29.jpg			37.jpg			6.jpg			closed_cabinet_7.jpg
+15.jpg			22.jpg			3.jpg			38.jpg			7.jpg			closed_cabinet_8.jpeg
+16.jpg			23.jpg			30.jpg			4.jpg			9.jpg			closed_cabinet_9.jpeg
+
+real_imgs/open_microwave/goal:
+micro_open9.png		open_9.jpg		open_micro17.jpeg	open_micro25.jpeg	open_micro33.jpeg	open_micro41.jpeg
+open_1.jpg		open_micro1.jpeg	open_micro18.jpeg	open_micro26.jpeg	open_micro34.jpeg	open_micro5.jpeg
+open_2.jpg		open_micro10.png	open_micro19.jpeg	open_micro27.jpeg	open_micro35.jpeg	open_micro6.jpeg
+open_3.jpg		open_micro11.jpeg	open_micro2.jpeg	open_micro28.jpeg	open_micro36.png	open_micro7.png
+open_4.jpg		open_micro12.jpeg	open_micro20.jpeg	open_micro29.jpeg	open_micro37.jpeg	open_micro8.png
+open_5.jpg		open_micro13.webp	open_micro21.png	open_micro3.jpeg	open_micro38.jpeg
+open_6.jpg		open_micro14.webp	open_micro22.png	open_micro30.webp	open_micro39.jpeg
+open_7.jpeg		open_micro15.jpg	open_micro23.jpeg	open_micro31.jpeg	open_micro4.jpeg
+open_8.jpg		open_micro16.jpeg	open_micro24.jpeg	open_micro32.jpeg	open_micro40.jpeg
+
+real_imgs/open_microwave/init:
+closed_1.jpg		closed_m1.jpeg		closed_m18.jpeg		closed_m9.jpeg		closed_micro16.jpeg	closed_micro5.jpeg
+closed_2.jpg		closed_m10.jpeg		closed_m19.jpeg		closed_micro.jpeg	closed_micro17.jpeg	closed_micro6.jpeg
+closed_3.jpg		closed_m11.png		closed_m2.jpeg		closed_micro1.jpeg	closed_micro18.jpeg	closed_micro7.jpeg
+closed_4.jpg		closed_m12.jpg		closed_m3.jpeg		closed_micro10.jpeg	closed_micro19.jpeg	closed_micro8.jpeg
+closed_5.jpg		closed_m13.jpeg		closed_m4.jpeg		closed_micro11.jpeg	closed_micro2.jpeg	closed_micro9.jpeg
+closed_6.jpg		closed_m14.jpeg		closed_m5.jpeg		closed_micro12.jpeg	closed_micro20.jpeg
+closed_7.jpg		closed_m15.jpeg		closed_m6.jpeg		closed_micro13.jpeg	closed_micro21.jpeg
+closed_8.jpg		closed_m16.jpeg		closed_m7.jpeg		closed_micro14.jpg	closed_micro3.jpeg
+closed_9.jpg		closed_m17.jpeg		closed_m8.jpeg		closed_micro15.jpeg	closed_micro4.jpeg
+
+real_imgs/open_sliding_door/goal:
+open_Sdoor40.webp	open_sdoor16.jpeg	open_sdoor24.jpeg	open_sdoor32.jpeg	open_sdoor41.webp	open_sdoor8.jpeg
+open_sdoor.jpeg		open_sdoor17.jpeg	open_sdoor25.jpeg	open_sdoor33.jpeg	open_sdoor42.jpeg	open_sdoor9.jpeg
+open_sdoor1.jpeg	open_sdoor18.webp	open_sdoor26.jpeg	open_sdoor34.jpeg	open_sdoor43.jpeg	open_sdoor_2.jpeg
+open_sdoor10.jpeg	open_sdoor19.jpeg	open_sdoor27.jpeg	open_sdoor35.jpeg	open_sdoor44.jpeg	opoen_sdoor.jpeg
+open_sdoor11.jpeg	open_sdoor2.jpeg	open_sdoor28.jpeg	open_sdoor36.jpeg	open_sdoor45.jpeg	sdoor_open_4.jpeg
+open_sdoor12.jpeg	open_sdoor20.jpeg	open_sdoor29.jpeg	open_sdoor37.jpeg	open_sdoor46.jpeg
+open_sdoor13.jpeg	open_sdoor21.webp	open_sdoor3.jpeg	open_sdoor38.jpeg	open_sdoor5.jpeg
+open_sdoor14.jpeg	open_sdoor22.jpeg	open_sdoor30.jpeg	open_sdoor39.jpeg	open_sdoor6.jpeg
+open_sdoor15.jpeg	open_sdoor23.jpeg	open_sdoor31.jpeg	open_sdoor4.jpeg	open_sdoor7.jpeg
+
+real_imgs/open_sliding_door/init:
+closed_door42.jpeg	closed_sdoor16.jpeg	closed_sdoor24.jpeg	closed_sdoor32.jpeg	closed_sdoor40.jpeg	closed_sdoor7.jpeg
+closed_sdoor.jpeg	closed_sdoor17.jpeg	closed_sdoor25.jpeg	closed_sdoor33.jpeg	closed_sdoor41.jpeg	closed_sdoor8.jpeg
+closed_sdoor1.jpeg	closed_sdoor18.jpeg	closed_sdoor26.jpeg	closed_sdoor34.jpeg	closed_sdoor43.jpeg	closed_sdoor9.jpeg
+closed_sdoor10.jpeg	closed_sdoor19.jpeg	closed_sdoor27.jpeg	closed_sdoor35.jpg	closed_sdoor44.jpeg	closed_sdoor_1.jpeg
+closed_sdoor11.jpeg	closed_sdoor2.jpeg	closed_sdoor28.jpeg	closed_sdoor36.jpeg	closed_sdoor45.jpeg	sdoor_closed2.jpeg
+closed_sdoor12.jpeg	closed_sdoor20.jpeg	closed_sdoor29.jpeg	closed_sdoor37.jpeg	closed_sdoor46.jpeg
+closed_sdoor13.jpeg	closed_sdoor21.jpeg	closed_sdoor3.jpeg	closed_sdoor38.jpeg	closed_sdoor47.jpeg
+closed_sdoor14.jpeg	closed_sdoor22.jpeg	closed_sdoor30.jpeg	closed_sdoor39.jpeg	closed_sdoor5.png
+closed_sdoor15.jpeg	closed_sdoor23.jpeg	closed_sdoor31.jpeg	closed_sdoor4.jpeg	closed_sdoor6.jpeg
+
+real_imgs/turn_on_stove/goal:
+IMG_9156.jpg		stove_all_on.jpeg	stove_on18.jpeg		stove_on26.jpeg		stove_on34.jpeg		stove_on42.jpeg
+IMG_9158.jpg		stove_on1.jpeg		stove_on19.jpeg		stove_on27.jpeg		stove_on35.jpeg		stove_on43.webp
+IMG_9159.jpg		stove_on10.jpeg		stove_on2.jpeg		stove_on28.jpeg		stove_on36.jpeg		stove_on44.jpeg
+IMG_9161.jpg		stove_on11.jpeg		stove_on20.jpeg		stove_on29.jpg		stove_on37.jpeg		stove_on45.jpeg
+IMG_9163.jpeg		stove_on13.jpeg		stove_on21.jpeg		stove_on3.jpeg		stove_on38.jpeg		stove_on5.jpeg
+range-turned-on.jpeg	stove_on14.jpeg		stove_on22.jpeg		stove_on30.jpeg		stove_on39.jpeg		stove_on6.jpg
+sotve_on12.png		stove_on15.jpeg		stove_on23.jpeg		stove_on31.jpeg		stove_on4.jpeg		stove_on7.webp
+stove.jpeg		stove_on16.jpeg		stove_on24.jpeg		stove_on32.jpg		stove_on40.jpeg		stove_on8.jpeg
+stove_4_on.jpeg		stove_on17.jpeg		stove_on25.jpeg		stove_on33.jpeg		stove_on41.jpeg		stove_on9.jpeg
+
+real_imgs/turn_on_stove/init:
+init.jpeg	stove13.jpeg	stove18.jpeg	stove22.jpeg	stove28.jpeg	stove32.jpg	stove37.jpeg	stove41.jpeg	stove5.jpeg	stove_off.jpeg
+stove1.jpeg	stove14.jpeg	stove19.jpeg	stove23.jpeg	stove29.jpeg	stove33.jpeg	stove38.jpeg	stove42.jpeg	stove6.jpeg	stove_off.jpg
+stove10.png	stove15.jpeg	stove2.png	stove25.webp	stove3.jpeg	stove34.jpeg	stove39.jpeg	stove43.jpeg	stove7.jpeg	stove_off2.jpeg
+stove11.jpg	stove16.jpeg	stove20.jpeg	stove26.jpeg	stove30.jpeg	stove35.jpeg	stove4.jpeg	stove44.jpeg	stove8.jpeg
+stove12.jpeg	stove17.jpeg	stove21.jpeg	stove27.jpeg	stove31.jpeg	stove36.jpeg	stove40.png	stove45.jpeg	stove9.jpeg

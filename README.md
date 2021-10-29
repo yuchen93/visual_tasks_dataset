@@ -43,6 +43,6 @@ visual_tasks_dataset/
 
 ## License
 
-This dataset is intended for research use only and is licensed under the [CC BY-NC 2.0 License](https://creativecommons.org/licenses/by-nc/2.0/legalcode).
+We do not own copyright of the internet images in this dataset. All credits go to the original creators. This dataset is intended for research use only and is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
 
